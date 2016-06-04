@@ -19,5 +19,5 @@ Default "1"
 
 Player Spawn In God Mode Or Not.
 
-Plugin will automatic create cfg/sourcemod/kento_jumpsound.cfg
+Plugin will automatic create cfg/sourcemod/kento_god.cfg
 
